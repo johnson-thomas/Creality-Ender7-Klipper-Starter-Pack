@@ -11,12 +11,23 @@ before starting first print please go through checks to ensure movement of print
 >recomended to then do pressure advance tuning
 
 
-NOTE: in an ideal world the config's i provided works for you out of the box, as i have done the above steps and been testing the printer for quite some time.
-      but  i hope you realize what changing the firmware does for instance u no longer can use the lcd on the printer, so please really consider doing these steps to avoid/minimize damage or injury
+NOTE: In an ideal world the config's i provided works for you out of the box, as i have done the above steps and been testing the printer for quite some time.
+      but  i hope you realize what changing the firmware does, for instance you no longer can use the lcd on the printer, so please really consider doing these steps to reduce your risks
+    
+
       
-      
-      
-Added note: i have plan to integrate my raspberry pi into the printer and also connect it to the ender7's built in lcd to get some functionality out of that, its just a plan for now , however if anyone has already made any steps along that directions let me knw if u anything to share or require support ( Raech me at johnsonthomas ( a t ) d u ck ( d o t ) com
+Additional note: i have plan to integrate my raspberry pi into the printer and also connect it to the ender7's built in lcd to get some functionality out of that, its just a plan for now , however if anyone has already made any steps along that directions let me knw if u anything to share or require support ( Raech me at johnsonthomas ( a t ) d u ck ( d o t ) com
+
+HW Info
+========
+printer: Ender 7
+raspberry: pi zero 2w
+
+SW Info
+=======
+I made use of mainsailos for my raspberry pi zero 2W, that already has all dependencies required to build the firmware as well
+winscp to transfer files to and from to the raspbi
+putty incase youare on windows and need to ssh
 
 File Info
 =========
