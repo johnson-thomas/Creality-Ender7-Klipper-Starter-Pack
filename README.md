@@ -31,11 +31,11 @@ putty incase youare on windows and need to ssh
 
 File Info
 =========
-.config => The klipper config file in the klipper directory (this has the presets required for ender7 from make menuconfig)
-2022-03-23_19h35_32.png => essential changes for klipper firmware build from make menuconfig (u could set these manually ore replace .config file mentioned above)
-2022-03-23_19h49_44.png =>screenshot showinng the location of the .config file used by klipper firmware build step
-k06032022firmware.bin => prebuild klipper firmware for creality ender7 with the ***!!!!SAFETY CRITICAL!!!! intial pin configuration (set in .config above) to avoid the printer heated bed powering on at startup when no raspberry is connected)***
-printer.cfg => ender7 printer cfg for klipper
+* .config => The klipper config file in the klipper directory (this has the presets required for ender7 from make menuconfig)
+* 2022-03-23_19h35_32.png => essential changes for klipper firmware build from make menuconfig (u could set these manually ore replace .config file mentioned above)
+* 2022-03-23_19h49_44.png =>screenshot showinng the location of the .config file used by klipper firmware build step
+* k06032022firmware.bin => prebuild klipper firmware for creality ender7 with the ***!!!!SAFETY CRITICAL!!!! intial pin configuration (set in .config above) to avoid the printer heated bed powering on at startup when no raspberry is connected)***
+* printer.cfg => ender7 printer cfg for klipper
 
 
 # ***UNDERSTAND THAT YOU MAKE USE OF THE INSTRUCTIONS HERE AT YOUR OWN RISK AND THIS IS AN UN OFFCIAL REPO AND NOT IN ANY WAY RELATED TO CREALITY***
